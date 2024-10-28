@@ -11,6 +11,13 @@ Este repositório contém o código-fonte da página web desenvolvida pela Equip
 - **Materiais Educativos:** Links para documentos de prevenção e primeiros socorros.
 - **Contatos de Emergência:** Informações de contato rápido.
 
+## Captura de Tela
+![screenshot](https://github.com/Alan-oliveir/Hackthon-Recode/blob/main/Imagens/screenshot.png)  
+
+## Deploy
+A página está disponível para ser acessada em: 
+https://alan-oliveir.github.io/Hackthon-Recode
+
 ## Tecnologias Utilizadas 🛠
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
