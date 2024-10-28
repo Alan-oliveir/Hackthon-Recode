@@ -57,7 +57,9 @@ function updateMicroregions() {
   };
 
   // Adiciona as opções de microrregiões conforme a mesorregião selecionada
+  microregionSelect.disabled = true; // Inicialmente desativado
   if (microregions[mesoregion]) {
+    microregionSelect.disabled = false; // Ativa quando há opções
     microregions[mesoregion].forEach((micro) => {
       const option = document.createElement("option");
       option.value = micro.toLowerCase().replace(/ /g, "_");
@@ -79,5 +81,5 @@ function formatPhone(input) {
     value = value.substring(0, 9) + "-" + value.substring(9, 13);
   }
 
-  input.value = value;
+  input.value = value.slice(0, 13);
 }

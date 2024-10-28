@@ -8,11 +8,11 @@ body {
   font-family: Arial, sans-serif;
   color: #333;
   background-color: #f4f4f4;
+  line-height: 1.6; /* Melhora a legibilidade */
 }
 
 header {
   background: url("./Imagens/cabeçalho.png") center / cover no-repeat;
-  /* Simplificado */
   min-height: 500px;
   color: white;
   position: relative;
@@ -133,5 +133,13 @@ footer {
 
   header nav {
     height: 40px;
+  }
+
+  header nav ul {
+    flex-direction: column;
+  }
+
+  header nav ul li {
+    margin: 5px 0;
   }
 }
