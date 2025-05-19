@@ -14,7 +14,14 @@ Este repositório contém o código-fonte da página web desenvolvida pela Equip
 
 ## Captura de Tela
 
-![screenshot](https://github.com/Alan-oliveir/Hackthon-Recode/blob/main/Imagens/screenshot.png)
+![screenshot](https://github.com/Alan-oliveir/Hackthon-Recode/blob/main/Imagens/screenshot.png)  
+
+## Pitch e Apresentação 🎤
+
+- [Vídeo do Pitch](https://youtube.com/seu-link-aqui)
+- [Apresentação Final do Projeto](https://youtube.com/outro-link-aqui)
+
+> Os vídeos estão como "não listados" no YouTube, acessíveis apenas via link direto.
 
 ## Deploy
 
