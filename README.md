@@ -18,8 +18,8 @@ Este repositório contém o código-fonte da página web desenvolvida pela Equip
 
 ## Pitch e Apresentação 🎤
 
-- [Vídeo do Pitch](https://youtube.com/seu-link-aqui)
-- [Apresentação Final do Projeto](https://youtube.com/outro-link-aqui)
+- [Vídeo do Pitch](https://youtu.be/F7T69cWQ3ag)
+- [Apresentação Final do Projeto](https://youtu.be/o1pET8YKsAE)
 
 > Os vídeos estão como "não listados" no YouTube, acessíveis apenas via link direto.
 
