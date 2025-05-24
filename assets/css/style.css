@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background: url("./assets/img/cabeçalho.png") center / contain no-repeat;
+  background: url("./img/cabeçalho.png") center / contain no-repeat;
   min-height: 50vh;
   color: white;
   position: relative;
